@@ -34,6 +34,11 @@ Hoy sigo profundizando en Machine Learning para modelos de predicción, procesam
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aldotoms@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldotoms)
 
+## 🌐 Mi sitio web
+
+Visita mi [GitHub Pages](https://aldotoms.github.io) para ver más proyectos y detalles.
+[![Website](https://img.shields.io/badge/GitHub%20Pages-000000?style=for-the-badge&logo=github&logoColor=white)](https://aldotoms.github.io)
+
 ## Lenguajes y herramientas
 
 <p align="left">
