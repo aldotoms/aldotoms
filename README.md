@@ -1,58 +1,62 @@
-# ¡Hola, soy Tom! 👋
-
-Apasionado por la Ciencia de Datos aplicada a la solución de problemas, convirtiendo datos en decisiones.
-
-![Profile views](https://komarev.com/ghpvc/?username=aldotoms&color=blue&style=flat)
-
-## 🔭 Habilidades técnicas
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4C9A2A?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/python/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-
-## 🌱 En desarrollo
-
-En 2025 consolidé mi enfoque en analítica aplicada a manufactura y supply chain: automatización con Python, modelado tabular y dashboards en Power BI, y pronósticos para planeación de capacidad. 
-Hoy sigo profundizando en Machine Learning para modelos de predicción, procesamiento de lenguaje natural (NLP) y visión artificial.
-
-- 📚 Estudiando modelado estadístico y MLOps ligero para despliegue de dashboards.
-- 🚴 Me gusta explorar el bosque en bici y documentar proyectos con claridad y reproducibilidad.
-
-## 📫 Conecta conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldotoms/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/aldotoms)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aldotoms@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldotoms)
-
-## 🌐 Mi sitio web
-
-Visita mi [GitHub Pages](https://aldotoms.github.io) para ver más proyectos y detalles.
-[![Website](https://img.shields.io/badge/GitHub%20Pages-000000?style=for-the-badge&logo=github&logoColor=white)](https://aldotoms.github.io)
-
-## Lenguajes y herramientas
+# ¡Hola, soy Tom! 👋 
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="40"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height="40"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" height="40"/></a>
+  <img src="https://komarev.com/ghpvc/?username=aldotoms&color=blue&style=flat-square&label=PERFIL+VISTO" alt="Profile views" />
+</p>
+
+> **Científico de Datos** apasionado por transformar datos complejos en decisiones estratégicas, con especial enfoque en **Manufactura y Supply Chain**.
+
+---
+
+## 🚀 Proyecto Destacado
+Aquí es donde puedes colocar el acceso directo al repositorio que acabas de corregir.
+
+| Proyecto | Descripción | Tecnologías | Link |
+| :--- | :--- | :--- | :---: |
+| **Análisis de Deserción de Clientes "Churn" en Telecomunicaciones** | Una empresa de relecomunicaciones que ofrece servicios de telefonía e internet, entre otros; necesita saber qué clientes son probables desertores de contratar sus servicios. Ha registrado varias características de su cartera a lo largo de varios años y con dicha información, se genera un modelo de clasificación que tiene como objetivo identificar los factores clave que influyen en la pérdida de los clientes.. | `Python` `Sweetviz` `Scikit-learn` `PyCaret` `XGBoost` `LightGBM` `Catboost` | [Ver Proyecto ➔](https://github.com/aldotoms/Portafolio_DS) |
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### **Análisis y Modelado**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+### **Visualización y Datos**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C9A2A?style=flat&logo=seaborn&logoColor=white)
+
+---
+
+## 🌱 Enfoque Actual
+En 2025 consolidé mi experiencia en analítica aplicada a la industria. Actualmente estoy profundizando en:
+* **MLOps:** Despliegue de modelos y automatización de pipelines.
+* **Computer Vision:** Aplicación en control de calidad para manufactura.
+* **NLP:** Procesamiento de reportes técnicos y feedback de cadena de suministro.
+
+---
+
+## 📊 Estadísticas de GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldotoms&show_icons=true&theme=vivid&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldotoms&layout=compact&theme=vivid" />
 </p>
 
 ---
 
-> Si te interesan mis proyectos de analítica para manufactura y supply chain, revisa los repos con la etiqueta `dashboard`, `forecasting` y `capacity-modeling`.
+## 📫 Conecta conmigo
 
+<p align="left">
+<a href="https://www.linkedin.com/in/aldotoms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldotoms" height="30" width="40" /></a>
+<a href="mailto:aldotoms@hotmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v2.png" alt="email" height="30" width="30" /></a>
+<a href="https://aldotoms.github.io" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="website" height="30" width="30" /></a>
+</p>
+
+---
+*Si te interesan mis proyectos, revisa los repositorios con las etiquetas: `#forecasting`, `#capacity-modeling` y `#dashboard`.*
