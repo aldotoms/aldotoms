@@ -4,12 +4,20 @@
   <img src="https://komarev.com/ghpvc/?username=aldotoms&color=blue&style=flat-square&label=PERFIL+VISTO" alt="Profile views" />
 </p>
 
-> **Científico de Datos** apasionado por transformar datos complejos en decisiones estratégicas, con especial enfoque en **Manufactura y Supply Chain**.
+### **Data Scientist | Experto en Planeación y Control de Producción**
+
+Con más de diez años de experiencia liderando procesos en **Planeación de Producción y de la Demanda**, he transformado mi carrera combinando el conocimiento profundo del negocio con el poder de la **Ciencia de Datos**. 
+
+Mi enfoque no es solo programar para el análisis de los datos, sino resolver problemas críticos de eficiencia y productividad: desde la automatización de reportes hasta el modelado predictivo para la planeación de capacidad. Mi transición de carrera nace de una convicción: los datos son el activo más valioso para optimizar cualquier cadena de valor.
+
+**¿Qué aporto a tu equipo?**
+* 🏗️ **Dominio de Planificación:** Entiendo el lenguaje de la planta, los KPIs de Producción y los retos de la Manufactura.
+* 📈 **Mente Analítica:** Capacidad para convertir datos desordenados en dashboards estratégicos y modelos predictivos.
+* 🔄 **Visión de Transición:** Una mezcla única de experiencia senior en operaciones y agilidad técnica en Python, SQL y ML.
 
 ---
 
 ## 🚀 Proyecto Destacado
-Aquí es donde puedes colocar el acceso directo al repositorio que acabas de corregir.
 
 | Proyecto | Descripción | Tecnologías | Link |
 | :--- | :--- | :--- | :---: |
@@ -53,8 +61,10 @@ En 2025 consolidé mi experiencia en analítica aplicada a la industria. Actualm
 ## 📫 Conecta conmigo
 
 <p align="left">
-<a href="https://www.linkedin.com/in/aldotoms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldotoms" height="30" width="40" /></a>
 <a href="mailto:aldotoms@hotmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v2.png" alt="email" height="30" width="30" /></a>
+
+<a href="https://www.linkedin.com/in/aldotoms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldotoms" height="30" width="40" /></a>
+
 <a href="https://aldotoms.github.io" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="website" height="30" width="30" /></a>
 </p>
 
