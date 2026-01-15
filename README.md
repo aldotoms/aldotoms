@@ -1,9 +1,5 @@
 # ¡Hola, soy Tom! 👋 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aldotoms&color=blue&style=flat-square&label=PERFIL+VISTO" alt="Profile views" />
-</p>
-
 ### **Data Scientist | Experto en Planeación y Control de Producción**
 
 Con más de diez años de experiencia liderando procesos en **Planeación de Producción y de la Demanda**, he transformado mi carrera combinando el conocimiento profundo del negocio con el poder de la **Ciencia de Datos**. 
@@ -51,9 +47,9 @@ En 2025 consolidé mi experiencia en analítica aplicada a la industria. Actualm
 ---
 
 ## 📊 Estadísticas de GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldotoms&show_icons=true&theme=vivid&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldotoms&layout=compact&theme=vivid" />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aldotoms&color=blue&style=flat-square&label=PERFIL+VISTO" alt="Profile views" />
 </p>
 
 ---
@@ -61,11 +57,7 @@ En 2025 consolidé mi experiencia en analítica aplicada a la industria. Actualm
 ## 📫 Conecta conmigo
 
 <p align="left">
-<a href="mailto:aldotoms@hotmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v2.png" alt="email" height="30" width="30" /></a>
-
-<a href="https://www.linkedin.com/in/aldotoms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldotoms" height="30" width="40" /></a>
-
-<a href="https://aldotoms.github.io" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="website" height="30" width="30" /></a>
+<a href="mailto:aldotoms@hotmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v2.png" alt="email" height="30" width="30" /></a>    <a href="https://www.linkedin.com/in/aldotoms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldotoms" height="30" width="40" /></a>    <a href="https://aldotoms.github.io" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="website" height="30" width="30" /></a>
 </p>
 
 ---
