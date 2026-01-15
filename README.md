@@ -1,6 +1,6 @@
 # ¡Hola, soy Tom! 👋 
 
-### **Data Scientist | Experto en Planeación y Control de Producción**
+### **Data Scientist | Experto en Planeación de la Demanda y Producción**
 
 Con más de diez años de experiencia liderando procesos en **Planeación de Producción y de la Demanda**, he transformado mi carrera combinando el conocimiento profundo del negocio con el poder de la **Ciencia de Datos**. 
 
