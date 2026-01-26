@@ -1,4 +1,4 @@
-# ¡Hola, soy Tom! 👋 
+# ¡Hola, soy Tom Orduña! 👋 
 
 ### **Data Scientist | Experto en Planeación de la Demanda y Producción**
 
@@ -13,7 +13,7 @@ Mi enfoque no es solo programar para el análisis de los datos, sino resolver pr
 
 ---
 
-## 🚀 Proyecto Destacado
+## 🚀 Portafolio de Proyectos
 
 | Proyecto | Descripción | Tecnologías | Link |
 | :--- | :--- | :--- | :---: |
