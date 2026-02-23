@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/aldotoms/assets/raw/main/banner-data-analytics.png" alt="Banner Data Analytics" width="100%">
+  <img src="https://raw.githubusercontent.com/aldotoms/aldotoms/main/assets/banner-data-analytics.png" alt="Banner Data Analytics" width="100%">
 </p>
 
 # ¡Hola, soy Tom Orduña! 👋 
