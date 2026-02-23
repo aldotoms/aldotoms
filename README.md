@@ -51,19 +51,23 @@ En 2025 consolidé mi experiencia en analítica aplicada a la industria. Actualm
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aldotoms&color=blue&style=flat-square&label=PERFIL+VISTO" alt="Profile views" />
-</p>
-
----
-
 ## 📫 Conecta conmigo
+¡Gracias por visitar mi portafolio! Estoy abierto a colaborar en proyectos de Ciencia de Datos, Machine Learning y NLP. Si quieres charlar sobre tecnología o posibles oportunidades, no dudes en contactarme:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldotoms@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasorduna-datascientist/)
+[![Website](https://img.shields.io/badge/Personal_Website-181717?style=for-the-badge&logo=github&logoColor=white)](https://aldotoms.github.io)
 
 <p align="left">
 <a href="mailto:aldotoms@hotmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v2.png" alt="email" height="30" width="30" /></a>    <a href="https://www.linkedin.com/in/aldotoms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldotoms" height="30" width="40" /></a>    <a href="https://aldotoms.github.io" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="website" height="30" width="30" /></a>
 </p>
 
 ---
-*Si te interesan mis proyectos, revisa los repositorios con las etiquetas: `#forecasting`, `#capacity-modeling` y `#dashboard`.*
+
+## 📊 Estadísticas de GitHub
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aldotoms&color=blue&style=flat-square&label=PERFIL+VISTO" alt="Profile views" />
+</p>
+
+*Última actualización: Febrero 2026*
