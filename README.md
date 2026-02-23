@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/aldotoms/assets/raw/main/banner-data-analytics.png" alt="Banner Data Analytics" width="100%">
+</p>
+
 # ¡Hola, soy Tom Orduña! 👋 
 
 ### **Data Scientist | Experto en Planeación de la Demanda y Producción**
