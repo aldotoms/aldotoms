@@ -2,35 +2,37 @@
   <img src="https://raw.githubusercontent.com/aldotoms/aldotoms/main/assets/banner-data-analytics.png" alt="Banner Data Analytics" width="100%">
 </p>
 
-# ¡Hola, soy Tom Orduña! 👋 
+# Hi, I'm Tom! 👋
 
-### **Data Scientist | Experto en Planeación de la Demanda y Producción**
+## Aldo Tomás Orduña Fabila
 
-Con más de diez años de experiencia liderando procesos en **Planeación de Producción y de la Demanda**, he transformado mi carrera combinando el conocimiento profundo del negocio con el poder de la **Ciencia de Datos**. 
+### **Analyst Data Scientist | Demand Planning & Production and Inventory Control Expert**
 
-Mi enfoque no es solo programar para el análisis de los datos, sino resolver problemas críticos de eficiencia y productividad: desde la automatización de reportes hasta el modelado predictivo para la planeación de capacidad. Mi transición de carrera nace de una convicción: los datos son el activo más valioso para optimizar cualquier cadena de valor.
+I am a **Data Scientist** certified by TripleTen, backed by a solid track record in **Supply Chain and Demand Planning**. I specialize in large-scale data preprocessing and statistical modeling, leveraging Python, SQL, and cloud environments like Databricks and Azure to transform complex data into strategic business decisions. 
 
-**¿Qué aporto a tu equipo?**
-* 🏗️ **Dominio de Planificación:** Entiendo el lenguaje de la planta, los KPIs de Producción y los retos de la Manufactura.
-* 📈 **Mente Analítica:** Capacidad para convertir datos desordenados en dashboards estratégicos y modelos predictivos.
-* 🔄 **Visión de Transición:** Una mezcla única de experiencia senior en operaciones y agilidad técnica en Python, SQL y ML.
+My approach combines deep operational domain knowledge with the power of Data Science to drive process optimization, workflow automation, and operational efficiency across the value chain.
+
+**What I bring to your team:**
+* 🏗️ **Operations & Supply Chain Expertise:** Deep understanding of manufacturing environments, production KPIs, and plant dynamics.
+* 📈 **Analytical & Methodical Mindset:** Strong ability to solve real-world business challenges, turning unstructured data into advanced Power BI dashboards and predictive models.
+* 🔄 **Technical Agility:** A unique blend of extensive operational experience and technical proficiency in Python, SQL, and Machine Learning deployment.
 
 ---
 
-## 🚀 Portafolio de Proyectos
+## 🚀 Project Portfolio
 
-| Proyecto | Descripción | Tecnologías | Link |
+| Project | Description | Technologies | Link |
 | :--- | :--- | :--- | :---: |
-| **Análisis de Deserción de Clientes "Churn" en Telecomunicaciones** | Una empresa de relecomunicaciones que ofrece servicios de telefonía e internet, entre otros; necesita saber qué clientes son probables desertores de contratar sus servicios. Ha registrado varias características de su cartera a lo largo de varios años y con dicha información, se genera un modelo de clasificación que tiene como objetivo identificar los factores clave que influyen en la pérdida de los clientes.. | `Python` `Sweetviz` `Scikit-learn` `PyCaret` `XGBoost` `LightGBM` `Catboost` | [Ver Proyecto ➔](https://github.com/aldotoms/analisis-desercion-clientes-telecom) |
-| **Análisis de imágenes de rostros para detección de menores de edad en un supermercado** | A una cadena de supermercados le gustaría explorar si la ciencia de los datos puede ayudarle a cumplir con las leyes sobre el alcohol, al asegurarse de no vender alcohol a personas menores de edad. | Lenguaje: Python 3.x, Deep Learning: [TensorFlow/Keras o PyTorch], Procesamiento de Imágenes: OpenCV / Pillow, Análisis de Datos: Pandas, Numpy, Matplotlib, Infraestructura: Google Colab (GPU: Tesla T4/L4) | [Ver Proyecto ➔](https://github.com/aldotoms/computer-vision-supermarket) |
-| **Clasificador de Reseñas con NLP: De Bag-of-Words a BERT** | Este proyecto aborda el procesamiento de lenguaje natural mediante un pipeline que compara técnicas tradicionales (TF-IDF y BoW) frente a modelos avanzados de lenguaje. Se implementó un clasificador para procesar reseñas de usuarios, transformando texto no estructurado en representaciones numéricas contextuales para mejorar la precisión en la categorización de contenido. | Lenguaje: Python, NLP: Transformers (BERT), Scikit-learn, NLTK, Análisis de Datos: Pandas, Numpy, Matplotlib, Modelado: MultinomialNB / Logistic Regression | [Ver Proyecto ➔](https://github.com/aldotoms/nlp-review-classifier) |
-| **Análisis de Datos en Databricks** | Dashboard interactivo desarrollado en la nube para visualización de métricas clave. | CSV, SQL, Databricks | [Ver Dashboard](https://dbc-678e718b-4f36.cloud.databricks.com/dashboardsv3/01f11b6f64af1435adea843e0de2813e/published?o=3199042490475837) |
+| **Customer Churn Prediction in Telecommunications** | Developed a classification model for a telecom company to identify key factors influencing customer attrition and predict potential churners. | `Python` `Sweetviz` `Scikit-learn` `PyCaret` `XGBoost` `LightGBM` `CatBoost` | [View Project ➔](https://github.com/aldotoms/analisis-desercion-clientes-telecom) |
+| **Computer Vision for Age Detection in a Supermarket** | Explored deep learning and image processing to detect minors in a supermarket environment, assisting the chain in regulatory compliance regarding alcohol sales. | `Python` `TensorFlow/Keras` `OpenCV` `Pillow` `Pandas` `NumPy` `Matplotlib` | [View Project ➔](https://github.com/aldotoms/computer-vision-supermarket) |
+| **NLP Review Classifier: From Bag-of-Words to BERT** | Built an NLP pipeline comparing traditional techniques (TF-IDF, BoW) with advanced transformer models to process unstructured user reviews and improve categorization accuracy. | `Python` `Transformers (BERT)` `Scikit-learn` `NLTK` `Pandas` `NumPy` `Logistic Regression` | [View Project ➔](https://github.com/aldotoms/nlp-review-classifier) |
+| **Data Analytics in Databricks** | Interactive cloud-based dashboard developed to visualize key metrics and scale business insights. | `CSV` `SQL` `Databricks` | [View Dashboard](https://dbc-678e718b-4f36.cloud.databricks.com/dashboardsv3/01f11b6f64af1435adea843e0de2813e/published?o=3199042490475837) |
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Technological Stack
 
-### **Análisis y Modelado**
+### **Analysis & Modeling**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -39,41 +41,56 @@ Mi enfoque no es solo programar para el análisis de los datos, sino resolver pr
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFA500?style=flat&logo=huggingface&logoColor=white)
 
-### **Visualización y Datos**
+### **Visualization & Data**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Sweetviz](https://img.shields.io/badge/Sweetviz-FF5733?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARElEQVQ4y2NgGAWjYBSMAlBQAsS/f//+f+TIEXwS/Pz58/8/f/7gk2D79u3/yZInpADZ8uRZAAMDA8P///8Z6BIAAFb9IIn8Y8UAAAAASUVORK5CYII=&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C9A2A?style=flat&logo=seaborn&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&gradient=true&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
 
-## 🌱 Enfoque Actual
-En 2025 consolidé mi experiencia en analítica aplicada a la industria. Actualmente estoy profundizando en:
-* **MLOps:** Despliegue de modelos y automatización de pipelines.
-* **Computer Vision:** Aplicación en control de calidad para manufactura.
-* **NLP:** Procesamiento de reportes técnicos y feedback de cadena de suministro.
+## 🏅 Certifications & Accreditations
+
+<p align="left">
+  <a href="https://credentials.databricks.com/22471999-039e-41a9-9085-139309c0b3d8#acc.nr9YOAmM" target="_blank">
+    <img src="https://raw.githubusercontent.com/aldotoms/aldotoms/main/assets/databricks-fundamentals.png" alt="Databricks Fundamentals Accreditation" height="110" style="margin-right: 20px;"/>
+  </a>
+  <a href="https://credentials.databricks.com/a7ed96d2-e4a5-492f-9c21-a7668751fd69#acc.PFDY2EX8" target="_blank">
+    <img src="https://raw.githubusercontent.com/aldotoms/aldotoms/main/assets/data-preparation-ml.png" alt="Data Preparation for Machine Learning Knowledge Badge" height="110"/>
+  </a>
+</p>
+
+* 💼 Verifies via my official **[Databricks Certification Wallet](https://credentials.databricks.com/profile/aldotomsorduafabila762728/wallet)**
+
+* **[Databricks Accredited Databricks Fundamentals](https://credentials.databricks.com/22471999-039e-41a9-9085-139309c0b3d8#acc.nr9YOAmM)** – Issued by Databricks Academy (May 2026)
+* **[Data Preparation for Machine Learning](https://credentials.databricks.com/a7ed96d2-e4a5-492f-9c21-a7668751fd69#acc.PFDY2EX8)** – Databricks Knowledge Badge
 
 ---
 
-## 📫 Conecta conmigo
-¡Gracias por visitar mi portafolio! Estoy abierto a colaborar en proyectos de Ciencia de Datos, Machine Learning y NLP. Si quieres charlar sobre tecnología o posibles oportunidades, no dudes en contactarme:
+## 🌱 Current Focus
+Building upon my strong background in operations and industrial analytics, I am currently deep-diving into:
+* **MLOps:** Deploying machine learning models and automating end-to-end pipelines.
+* **Computer Vision:** Vision-based automation and quality control applications for manufacturing.
+* **NLP:** Processing technical reports and optimizing supply chain feedback loops.
+
+---
+
+## 📫 Let's Connect!
+I am highly interested in contributing to organizations looking to scale their data projects and solve complex business challenges with high-impact, actionable insights. Feel free to reach out:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldotoms@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasorduna-datascientist/)
 [![Website](https://img.shields.io/badge/Personal_Website-181717?style=for-the-badge&logo=github&logoColor=white)](https://aldotoms.github.io)
 
-<p align="left">
-<a href="mailto:aldotoms@hotmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v2.png" alt="email" height="30" width="30" /></a>    <a href="https://www.linkedin.com/in/aldotoms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldotoms" height="30" width="40" /></a>    <a href="https://aldotoms.github.io" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="website" height="30" width="30" /></a>
-</p>
-
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aldotoms&color=blue&style=flat-square&label=PERFIL+VISTO" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aldotoms&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-*Última actualización: Febrero 2026*
+*Last updated: May 2026*
